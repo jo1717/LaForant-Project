@@ -1,1 +1,31 @@
+.footer {
+    background-color: #101820;
+    color: #d4d4d4;
+    font-family: 'Louis George Café Light', sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.lineOne {
+    padding-top: 25px;
+    font-size: 32px;
+    padding-bottom: 25px;
+}
+
+.sosmed {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 40px;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.lineTwo {
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+
+
+
+
 
